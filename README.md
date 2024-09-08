@@ -1,6 +1,10 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉接网站建设、小程序、H5、APP、各种系统等
+
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
@@ -8,7 +12,6 @@
 
 **视频演示：[https://www.bilibili.com/video/BV1fN41167Y2/](https://www.bilibili.com/video/BV1fN41167Y2/)**
 
- 
 ## 基于Springboot+vue的景区旅游系统(源代码+数据库)
 
 ## 一、系统介绍
@@ -16,6 +19,7 @@
 本项目分为管理员与普通用户两种角色
 
 - 前台系统包含首页登录、注册、密码修改、首页、旅游新闻、首页轮播、景区信息、美食信息、
+  
   旅游线路、留言、个人中心等模块。 
 - 后台管理系统包含登录、账号管理、地区管理、景点管理、美食管理、订单管理、旅游线路管理、新闻管理、系统管理模块。
 
@@ -23,7 +27,6 @@
 
 - 后台：Springboot + Mybatis  + Maven +mysql
 - 前台：vue + Bootstrap + layui
-
 
 ## 三、环境介绍
 
@@ -82,4 +85,4 @@ http://localhost:8082/#/login
 5. vscode打开spbootvue07987lyxxtjxtsjysx-client项目，
 6. 打开终端，执行npm install 依赖下载完成后执行 npm run serve,执行成功后会显示访问地址
 
-​	 
+​     
